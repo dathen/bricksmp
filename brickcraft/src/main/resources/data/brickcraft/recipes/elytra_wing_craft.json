@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPC",
+        "PP ",
+        "PP "
+    ],
+    "key": {
+        "P": {
+            "tag": "minecraft:phantom_membrane"
+        },
+        "C": {
+            "tag": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "brickcraft:elytra_wing",
+        "count": 1
+    }
+}

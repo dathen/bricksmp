@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RHR",
+        "PDP",
+        "PXP"
+    ],
+    "key": {
+        "R": {
+            "tag": "minecraft:end_rod"
+        },
+        "H": {
+            "tag": "minecraft:dragon_head"
+        },
+        "P": {
+            "tag": "minecraft:phantom_membrane"
+        },
+        "D": {
+            "tag": "minecraft:diamond_chestplate"
+        },
+        "X": {
+            "tag": "experience_bottle"
+        }
+    },
+    "result": {
+        "item": "brickcraft:elytra_frame",
+        "count": 1
+    }
+}

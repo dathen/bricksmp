@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "STS",
+        "NEN",
+        "SGS"
+    ],
+    "key": {
+        "N": {
+            "tag": "minecraft:nether_star"
+        },
+        "T": {
+            "tag": "minecraft:totem_of_undying"
+        },
+        "S": {
+            "tag": "minecraft:netherite_block"
+        },
+        "E": {
+            "tag": "minecraft:heart_of_the_sea"
+        },
+        "G": {
+            "tag": "minecraft:enchanted_golden_apple"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    }
+}
